@@ -1,0 +1,15 @@
+{ 
+    "css": { 
+  
+        "preserve_newlines": false, 
+  
+        "selector_separator_newline" : true, 
+  
+        "end_with_newline": false, 
+  
+        "newline_between_rules": true, 
+  
+        "space_around_selector_separator": true 
+  
+    }
+}
